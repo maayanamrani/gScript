@@ -1,4 +1,3 @@
-# gScript
 artifactory('Maayan-ohad') {
   localRepository('maven-local') {
   description "Public description"
